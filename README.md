@@ -1,2 +1,2 @@
-# prisma-crad
-Node js example with Prisma and PostgreSQL.
+# postgresql-crad
+Node js example with PostgreSQL.
